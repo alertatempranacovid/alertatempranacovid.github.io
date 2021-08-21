@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Nueva normalidad"
   left:
     - text: "Seguimiento COVID-19"
       href: index.html
