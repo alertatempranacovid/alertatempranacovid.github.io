@@ -3,7 +3,12 @@ output_dir: "."
 navbar:
   title: "My Website"
   left:
-    - text: "Home"
+    - text: "Seguimiento COVID-19"
       href: index.html
     - text: "About"
       href: about.html
+      
+output:
+ html_document:
+   theme: cosmo
+   higlight: textmate

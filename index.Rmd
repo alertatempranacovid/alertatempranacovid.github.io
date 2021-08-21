@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Seguimiento COVID 19"
 ---
 
-Hello, Website!
+Hola a todos! Esta pagina permite visualizar los principales indicadores sobre las condiciones de contagio de la COVID-19
